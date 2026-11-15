@@ -1,12 +1,6 @@
 # Aurora-Revival
 Plasma 6 Global Theme
 
-第一版已经制作完成！💙
-
-Aurora Revival 0.1.0
-
-构建成功
-
 ### 16 KB
 
 ZIP 安装包 · Plasma 6 · Arch Linux
@@ -16,10 +10,6 @@ SVG、JSON 文件结构验证通过
 安装与卸载脚本语法检查通过
 
 原创 1920×1080 壁纸已包含
-
-下载 ZIP 安装包
-
-下载 Linux TAR.GZ 版本
 
 ### 1\. 已经包含的内容
 
